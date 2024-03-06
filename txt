@@ -1,0 +1,47 @@
+<header class="page_header">
+   
+    <div class="container_header">
+        <nav>
+        <div class="container_navigation">
+            <div class="logo"> 
+                <a href="#">
+                    <img src="/img/logotip.svg" alt="logo" width="53" height="80">
+                    </a>
+            </div>
+                 <div class="navigation">
+                    <ul class="navigation_list" >
+                        <li class="navigation_item">
+                            <a class="navigation_link" href="#">HOME</a>
+                        </li>
+                        <li class="navigation_item">
+                            <a class="navigation_link" href="#">MUSIC</a>
+                        </li>
+                        <li class="navigation_item">
+                            <a class="navigation_link" href="#">ABOUT</a>
+                        </li>
+                        <li class="navigation_item">
+                            <a class="navigation_link" href="#">STORE</a>
+                        </li>
+                    </ul>
+
+                </div>
+        </div>
+    </nav>
+
+        <div class="container_header_flat">
+            <div class="container_header_text">
+              <h1 class="header_text_title">MUSIC PLAYER</h1>
+              <p class="header_text">American company formed in 2002 in Boston, Massachusetts</p>
+            </div>
+            <div class="container_header_images">
+              <a href="#">
+                <img src="img/Flat.png" alt="Плеер" width="500" height="888">
+              </a>
+            </div>
+          </div>
+
+    </div>
+
+</header>
+
+Download<br />Windows x64
