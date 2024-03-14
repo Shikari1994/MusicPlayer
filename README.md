@@ -1,1 +1,1 @@
-Hello
+![Полный вид](img/img.png)
